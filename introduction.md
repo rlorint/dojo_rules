@@ -1,16 +1,24 @@
-this is roxana
-:wq
-:wq~
-:wq!
+This is roxana
 
-:wq
-:i
+git *JavaScript
 *Git
 *JavaScript
+*Killing history using git rebase
 
-:wq
 
-:wq
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
