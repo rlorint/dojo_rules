@@ -4,6 +4,20 @@ this is roxana
 :wq!
 
 :wq
+:i
+*Git
+*JavaScript
+
+:wq
+
+:wq
+
+
+
+
+
+
+
 
 
 
